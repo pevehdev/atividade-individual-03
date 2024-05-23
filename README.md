@@ -40,4 +40,12 @@ https://colab.research.google.com/drive/1z607wq1PM-dMTDKw6q3PCUSHSTp4RlJh?usp=sh
 ![image](https://github.com/pevehdev/atividade-individual-03/assets/114115311/704d1c84-c5a6-4def-931a-32881f1fbc48)
 
 
+## Insights
+
+### Selecionar os 3 dias mais produtivos acima da média (0.67)
+
+![image](https://github.com/pevehdev/atividade-individual-03/assets/114115311/10904209-4a4c-4b8f-bc89-89dd9f11118b)
+
+![image](https://github.com/pevehdev/atividade-individual-03/assets/114115311/86455ea0-ff84-4511-b2cd-a7d0e41df121)
+
 
