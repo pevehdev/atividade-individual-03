@@ -9,10 +9,12 @@ https://colab.research.google.com/drive/1z607wq1PM-dMTDKw6q3PCUSHSTp4RlJh?usp=sh
 <p>Fazer análise exploratória de dados com python pelo Colab ou Jupyter notebook. Este relatório tem o objetivo de demonstrar a importância da análise dos dados de um projeto de desenvolvimento de software ao longo de uma semana. Os dados fornecidos permitirão ao proprietário da equipe de desenvolvimento obter insights sobre o progresso do projeto, identificar possíveis áreas de melhoria e tomar decisões informadas para garantir o sucesso do projeto.</p>
 
 ## Bibliotecas utilizadas:
-![image](https://github.com/pevehdev/atividade-individual-03/assets/114115311/ecff973e-95af-4754-9825-c4ca53f128cb)
+![image](https://github.com/pevehdev/atividade-individual-03/assets/114115311/0b0d9ec8-e348-4434-ae31-266a22c55b4d)
+
 
 ## Leitura dos dados do Excel: 
-![image](https://github.com/pevehdev/atividade-individual-03/assets/114115311/da4cba69-e234-458d-add8-fcd6f4a2fe47)
+![image](https://github.com/pevehdev/atividade-individual-03/assets/114115311/937a9e0e-53ce-4696-a3ec-49fa6f061af2)
+
 
 
 
@@ -42,10 +44,32 @@ https://colab.research.google.com/drive/1z607wq1PM-dMTDKw6q3PCUSHSTp4RlJh?usp=sh
 
 ## Insights
 
-### Selecionar os 3 dias mais produtivos acima da média (0.67)
+### 1) Selecionar os 3 dias mais produtivos acima da média (0.67)
 
-![image](https://github.com/pevehdev/atividade-individual-03/assets/114115311/10904209-4a4c-4b8f-bc89-89dd9f11118b)
+![image](https://github.com/pevehdev/atividade-individual-03/assets/114115311/bb9d47d1-71fa-43e8-a1a5-b331b7bfcab4)
 
-![image](https://github.com/pevehdev/atividade-individual-03/assets/114115311/86455ea0-ff84-4511-b2cd-a7d0e41df121)
+
+![image](https://github.com/pevehdev/atividade-individual-03/assets/114115311/f6c192d0-56bb-4585-975a-ef73ec5a785c)
+![image](https://github.com/pevehdev/atividade-individual-03/assets/114115311/89cb0563-b9bc-4651-8e32-704dc856193c)
+
+### 2) Selecionar os 3 dias menos produtivo abaixo da média (0.67)
+
+![image](https://github.com/pevehdev/atividade-individual-03/assets/114115311/72ae38a2-30e7-4c2e-9641-e6455f14b8aa)
+![image](https://github.com/pevehdev/atividade-individual-03/assets/114115311/0febefa1-e6c3-4820-9449-c524358d7619)
+
+
+### 3) Selecionar as horas trabalhadas por dia
+
+![image](https://github.com/pevehdev/atividade-individual-03/assets/114115311/4879ad0f-6e8e-46b3-aeb8-9d0ecd6b7b36)
+![image](https://github.com/pevehdev/atividade-individual-03/assets/114115311/2cd3d59d-6253-41a2-aceb-48e8f8d47998)
+![image](https://github.com/pevehdev/atividade-individual-03/assets/114115311/1df63035-4dbb-4dce-9ed0-672e2689aa7e)
+![image](https://github.com/pevehdev/atividade-individual-03/assets/114115311/fbd42c85-9f6f-408c-b7f0-994fdc1ee296)
+
+
+
+
+
+
+
 
 
